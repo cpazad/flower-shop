@@ -131,5 +131,24 @@ table {
   tr:nth-child(even) {
     background-color: #afc9c989;
   }
- 
+ footer{
+    background-color: #000;
+    color: #cccbcb;
+    text-align: center;
+    padding: 100px 0px;
+ }
 
+ footer h1 {
+    font-size: 45px;
+    font-weight: bolder;
+ }
+ .partTwo {
+    color: #E55473;
+ }
+
+ .footer-des {
+    margin: 15px 0px 25px 0px;
+ }
+ .copy-right {
+    color: #979696;
+ }
