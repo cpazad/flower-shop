@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #e554732e;
+}
+.banner-container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    
+
+}
+.banner-img img {
+    width: 70%;
+}
+.slogan {
+    font-size: 55px;
+}
+.banner-content {
+    max-width: 500px;
+    padding: 25px;
+    margin-right: 200px;
+}
+.content-des{
+    margin: 15px 0px;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.btn-theme {
+    padding: 10px 15px;
+    background:#E55473;
+    color: #fff;
+    border-radius: 5%;
+    border: 1px solid #E55473;
+}
+ .btn-theme:hover{
+    background-color: transparent;
+    color: #E55473;
+}
