@@ -131,6 +131,49 @@ table {
   tr:nth-child(even) {
     background-color: #afc9c989;
   }
+
+/* CSS for the Deal Section */
+.deal {
+    display: flex;
+    justify-content: center;
+    background-color: #e5547318;
+    align-items: center;
+    padding: 70px 0px;
+}
+.deal-details{
+    text-align: center;
+}
+.deal-des {
+    margin: 20px;
+}
+.deal-img-container {
+    margin-left: 100px;
+}
+.deal-img {
+    width: 80%;
+}
+
+/* CSS for Instagram section */
+.instagram {
+    text-align: center;
+    padding: 50px 0px;
+}
+.image-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    width: 980px;
+    margin: 0px auto;
+}
+.insta-details {
+    margin: 30px;
+}
+.image-container img {
+    width: 260px;
+}
+
+
+  /*  CSS for the Footer */
  footer{
     background-color: #000;
     color: #cccbcb;
