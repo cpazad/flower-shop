@@ -172,6 +172,31 @@ table {
     width: 260px;
 }
 
+/*  Subscribe Section CSS */
+
+.subscribe {
+    background-image: url("images/Rectangle9.png");
+    text-align: center;
+    padding: 100px 0px;
+    margin: 35px auto;
+    width: 1080px;
+    background-size: cover;
+}
+.coupon-details {
+    margin: 15px;
+}
+input[type=email]{
+    padding: 10px 100px;
+    border: 1px solid #fff;
+    border-radius: 5%;
+}
+input[type=submit] {
+    padding: 10px 15px;
+    background:#E55473;
+    color: #fff;
+    border-radius: 5%;
+    border: 1px solid #E55473;
+}
 
   /*  CSS for the Footer */
  footer{
