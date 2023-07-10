@@ -76,7 +76,8 @@ header {
 
 
 .featured-flower h5{
-    margin-top: 8px;
+    margin-top: 15px;
+    font-size: 18px;
 }
 
 .img-container{
@@ -89,4 +90,19 @@ header {
 }
 .color-three{
     background-color: #cfc8ff71;
+}
+
+/* Delivery section CSS */
+
+.delivery-section {
+    background-color: #afc9c989;
+    width: 980px;
+    margin: 0px auto;
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+    text-align: center;
+}
+.deli-des {
+    margin-top: 10px;
 }
